@@ -1,0 +1,8 @@
+{
+  "name": "Narrativa Artificial",
+  "description": "Um painel de automação inspirado no Android para respostas de WhatsApp baseadas no Gemini. Configure prompts de sistema, gerencie bases de conhecimento com PDFs, áudios e imagens, e simule respostas automáticas por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
